@@ -1,0 +1,3 @@
+nonEquilibriumPorousPimpleFoam.C
+
+EXE = $(FOAM_APPBIN)/nonEquilibriumPorousPimpleFoam
